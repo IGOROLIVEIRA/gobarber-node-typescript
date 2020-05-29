@@ -60,7 +60,6 @@ class AppointmentRepository implements IAppontmentsRepository {
         ),
       },
     });
-
     return appointments;
   }
 
