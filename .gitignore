@@ -10,7 +10,8 @@ tmp/*
 ormconfig.json
 dist
 src/.DS_Store
-        src/modules/.DS_Store
-        src/modules/users/.DS_Store
-        src/modules/users/infra/.DS_Store
-        src/modules/users/infra/http/.DS_Store
+src/modules/.DS_Store
+src/modules/users/.DS_Store
+src/modules/users/infra/.DS_Store
+src/modules/users/infra/http/.DS_Store
+.DS_Store
